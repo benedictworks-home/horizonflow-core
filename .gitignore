@@ -1,0 +1,8 @@
+/target
+**/*.rs.bk
+*.wasm
+.soroban/
+.stellar/
+node_modules/
+*.log
+.DS_Store
